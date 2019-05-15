@@ -1,0 +1,5 @@
+{
+  "port": 3003,
+  "dkey": "anAMM45t0mXiICoLrx1niQ",
+  "trustedDomains": ["http://localhost:3002"]
+}
